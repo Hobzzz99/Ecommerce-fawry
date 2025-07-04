@@ -1,6 +1,7 @@
 # Ecommerce-fawry
 This is a Java console-based e-commerce cart simulation developed for the Fawry Quantum Rise Internship Challenge (Task 3).
 ✅ Features
+
 Add products (Cheese, TV, Scratch Cards, Snacks) with stock tracking
 Validate expiration dates using LocalDate
 Apply flat shipping fee only to shippable items (Cheese, TV)
